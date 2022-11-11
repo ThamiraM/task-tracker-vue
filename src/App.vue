@@ -1,5 +1,8 @@
 <template>
-  <Header title="Task Tracker"/>
+  <div class="container w-50">
+    <Header title="Task Tracker"/>
+  </div>
+ 
 </template>
 
 <script>
